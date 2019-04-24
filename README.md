@@ -1,8 +1,11 @@
 # Uber-Upgrades
 插件需求
 TF2Items  https://builds.limetech.io/?project=tf2items
+
 Tf2Attributes https://github.com/FlaminSarge/tf2attributes/releases
+
 TF2ItemsInfo https://github.com/chauffer/tf2itemsinfo 
+
 需自行將 tf2items_manager 編譯
 SDKTools (sourcemod本身就包含)
 
